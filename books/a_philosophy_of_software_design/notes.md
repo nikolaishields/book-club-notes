@@ -2,9 +2,7 @@
 
 https://www.amazon.com/dp/1732102201/ref=cm_sw_em_r_mt_dp_WZ5QD9CHZVEEH5539J87
 
-## Summary
-
-TODO: read the book and fill this out
+[Summary](toc.md)
 
 ## Opinions
 

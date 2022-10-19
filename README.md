@@ -2,9 +2,9 @@
 
 We would like to read books and talk about it.
 
-We are using the "public" SLACK channel #fun-tech-bookclub in SUSE's Slack chat.
-Ask the organizer to be added/removed from the meeting.
-Ask the scribe for notes from previous meetings(more than likely they are here).
+We are using the "public" SLACK channel #fun-tech-bookclub in SUSE's Slack chat.  
+Ask the organizer to be added/removed from the meeting.  
+Ask the scribe for notes from previous meetings(more than likely they are here).  
 
 ## Roles
 
@@ -28,8 +28,8 @@ What:
   - research and take notes on books if necessary
 
 
-[Possible Books](./PossibleBooks.md)
-[Past Books](./PastBooksList.md)
+[Possible Books](./PossibleBooks.md)  
+[Past Books](./PastBooksList.md)  
 
 
 - Meeting Cadence:  
