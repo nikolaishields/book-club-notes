@@ -10,8 +10,8 @@ Ask the scribe for notes from previous meetings(more than likely they are here).
 
 ### Organizer
 
-Who: Nikolai Shields
-What:
+Who: Nikolai Shields  
+What:  
   - owns meetings
     - introduces meeting
     - voices the agenda
@@ -21,8 +21,8 @@ What:
 
 ### Scribe
 
-Who: Matt Trachier
-What:
+Who: Matt Trachier  
+What:  
   - take meeting notes
   - write emails to group if necessary
   - research and take notes on books if necessary
@@ -34,4 +34,3 @@ What:
 
 - Meeting Cadence:  
   - Once every month?
-
