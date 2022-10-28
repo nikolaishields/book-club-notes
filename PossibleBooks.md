@@ -15,3 +15,4 @@
   - https://chidiwilliams.com/post/the-humane-representation-of-programs/  
 - "The New Gold Standard" The Ritz-Carlton Hotel Company  
   - https://www.amazon.com/New-Gold-Standard-Leadership-Ritz-Carlton/dp/0071548335/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1666116105&sr=8-1  
+- https://un.curl.dev/
